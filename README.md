@@ -99,6 +99,7 @@ NCO 不再是一個獨立模組，而是 OwlGalaxy 的 UI 入口。
 🦉 5. 觀點
 
 傳統 NLP: Token → Embedding → Transformer → Output
+
 OwlSystem (概念): Token → Vector → Semantic Process → Output
 
 核心觀點：  
