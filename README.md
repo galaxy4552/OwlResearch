@@ -114,11 +114,12 @@ OwlSystem (概念): Token → Vector → Semantic Process → Output
 研究重點（概念層級）：
 
 - 幾何化語意表徵
-- 語意狀態演化模型
-- 我們探索的是一種 non-model 語言系統：
-不依賴 Transformer，不依賴大模型，而是基於語意空間的連續性。
 
-這個方向並非取代 LLM，而是補足 LLM 在
+- 語意狀態演化模型
+
+- 最近也看到不少人開始探索 non-model 的語意架構，所以這個方向看起來正在成為一個獨立研究分支。不依賴 Transformer，不依賴大模型，而是基於語意空間的連續性。
+
+- 這個方向並非取代 LLM，而是補足 LLM 在
 「低延遲、個人化、輕量語意處理」中的缺口。
 更多細節請見白皮書。
 
@@ -126,4 +127,4 @@ OwlSystem (概念): Token → Vector → Semantic Process → Output
 
 OwlResearch Series
 Maintained by 王楷霖
-2025
+2025-12-05
