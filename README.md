@@ -21,7 +21,7 @@ Field-Based Semantic Pipeline (KingdomOwl / WisdomOwl)
 
 🖼 Diagram Reference
 
-[語言動力學示意圖（Language Pipeline Diagram）](../images/languagepipeline.JPG)
+[語言動力學示意圖（Language Pipeline Diagram）](/images/languagepipeline.JPG)
 
 📅 Version
 
