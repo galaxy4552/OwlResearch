@@ -34,7 +34,7 @@ Field-based semantic recursion（語意遞迴公式）
 
 作為整個 OwlGalaxy 的核心概念樹（concept backbone）
 
-語言管線示意圖[![語言動力學示意圖（Language Pipeline Diagram）](./images/languagepipeline.jpg)](./images/languagepipeline.jpg)
+[![語言動力學示意圖（Language Pipeline Diagram）](./images/languagepipeline.jpg)](./images/languagepipeline.jpg)
 
 📂 2. 預計釋出的白皮書（即將上線）
 
