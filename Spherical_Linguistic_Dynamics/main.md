@@ -29,8 +29,8 @@ meaning evolves smoothly along geodesic-like flows.
 
 2. Core Idea Diagram（placeholder）
 
-Spherical Linguistic Field 與 Token → Vector → Field Pipeline 示意圖：  
-[語言管線示意圖（languagepipeline）](../images/languagepipeline.JPG)
+Spherical Linguistic Field & Token → Vector → Field Pipeline：  
+[Language Pipeline Diagram](../images/languagepipeline.JPG)
 
 3. Key Contributions（v0.1）
 
@@ -72,6 +72,9 @@ Each branch will have its own micro-whitepaper expanding the details.
 6. Version
 
 OwlResearch Series — Spherical Linguistic Dynamics
+
 Version: v0.1 (Micro Edition)
+
 Date: 2025-12-05
-Repository: [（你的 GitHub 連結）](https://github.com/galaxy4552/OwlResearch)
+
+Repository: [https://github.com/galaxy4552](https://github.com/galaxy4552/OwlResearch)
