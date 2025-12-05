@@ -96,7 +96,33 @@ NCO 不再是一個獨立模組，而是 OwlGalaxy 的 UI 入口。
 
 [![測試圖](./images/IME_test.jpg)](./images/IME_test.jpg)
 
-📅 5. 狀態
+🦉 5. 觀點
+
+傳統 NLP: Token → Embedding → Transformer → Output
+OwlSystem (概念): Token → Vector → Semantic Process → Output
+
+核心觀點：  
+我們將語言視為「連續語意空間中的狀態」，  
+而非純序列處理。
+
+為什麼探索這個方向？
+
+1. 目標是極低延遲（適用於即時互動）
+2. 可在輕量硬體上運作（無需大型模型）
+3. 提供更貼近語意與語境連續性的處理方式
+
+研究重點（概念層級）：
+
+- 幾何化語意表徵
+- 語意狀態演化模型
+- 我們探索的是一種 non-model 語言系統：
+不依賴 Transformer，不依賴大模型，而是基於語意空間的連續性。
+
+這個方向並非取代 LLM，而是補足 LLM 在
+「低延遲、個人化、輕量語意處理」中的缺口。
+更多細節請見白皮書。
+
+📅 6. 狀態
 
 OwlResearch Series
 Maintained by 王楷霖
