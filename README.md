@@ -34,7 +34,7 @@ Field-based semantic recursion（語意遞迴公式）
 
 作為整個 OwlGalaxy 的核心概念樹（concept backbone）
 
-語言管線示意圖
+語言管線示意圖[![語言動力學示意圖（Language Pipeline Diagram）](./images/languagepipeline.jpg)](./images/languagepipeline.jpg)
 
 📂 2. 預計釋出的白皮書（即將上線）
 
@@ -93,6 +93,8 @@ Persona vector（LPV / Dark / Wisdom）提供新可能。
 
 NCO 不再是一個獨立模組，而是 OwlGalaxy 的 UI 入口。
 真正的語意邏輯完全交由 Field 層與 VecOwl 負責。
+
+[![測試圖](./images/IME_test.jpg)](./images/IME_test.jpg)
 
 📅 5. 狀態
 
