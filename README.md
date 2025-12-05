@@ -5,7 +5,7 @@ A collection of research notes, whitepapers, and foundational theories for the O
 📘 1. Spherical Linguistic Dynamics
 
 → 核心理論（Umbrella Whitepaper）
-Folder: [Spherical_Linguistic_Dynamics](./Spherical_Linguistic_Dynamics)
+Folder: [Spherical_Linguistic_Dynamics](./Spherical_Linguistic_Dynamics/main.md)
 
 Describes the field-based view of language:
 Token → Vector → Field → Meta-language dynamics.
