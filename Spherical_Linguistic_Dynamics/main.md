@@ -65,8 +65,6 @@ This document is the umbrella brief for the following technical branches：
 
 VecOwl/vecowl_brief.md
 
-NCO/nco_brief.md
-
 PipOwl/pipowl_brief.md
 
 Each branch will have its own micro-whitepaper expanding the details.
@@ -76,4 +74,4 @@ Each branch will have its own micro-whitepaper expanding the details.
 OwlResearch Series — Spherical Linguistic Dynamics
 Version: v0.1 (Micro Edition)
 Date: 2025-12-05
-Repository: （你的 GitHub 連結）
+Repository: [（你的 GitHub 連結）](https://github.com/galaxy4552/OwlResearch)
