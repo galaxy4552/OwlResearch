@@ -9,14 +9,14 @@ OwlGalaxy 語意計算架構的研究筆記、白皮書與原理文件
 本專案包含四份與授權、資料與倫理規範相關的文件。
 為了維持研究透明度與技術安全性，建議讀者在使用 OwlResearch 前先閱讀以下內容：
 
-🔹 [LICENSE](.License)
+🔹 [LICENSE](License)
 
 Apache License 2.0
 
 適用於本專案所有原始程式碼。
 提供自由使用、修改、散布的權利，並要求保留版權與授權條款。
 
-🔹 [DATA_LICENSE.md](.DATA_LICENSE.md)
+🔹 [DATA_LICENSE.md](DATA_LICENSE.md)
 
 CC BY 4.0 International License
 
