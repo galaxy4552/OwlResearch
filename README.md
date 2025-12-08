@@ -2,6 +2,43 @@
 
 OwlGalaxy 語意計算架構的研究筆記、白皮書與原理文件
 
+---
+
+🟦 📄 License & Policy Documents
+
+本專案包含四份與授權、資料與倫理規範相關的文件。
+為了維持研究透明度與技術安全性，建議讀者在使用 OwlResearch 前先閱讀以下內容：
+
+🔹 [LICENSE](.License)
+
+Apache License 2.0
+
+適用於本專案所有原始程式碼。
+提供自由使用、修改、散布的權利，並要求保留版權與授權條款。
+
+🔹 [DATA_LICENSE.md](.DATA_LICENSE.md)
+
+CC BY 4.0 International License
+
+適用於倉庫內所有資料集（datasets）。
+允許分享與改作，但需適當標註來源。
+
+🔹 [ETHICS.md](ETHICS.md)
+
+OwlResearch Ethics Addendum
+
+OwlResearch 專案特有的倫理指引：
+包含隱私保護、禁止反向推敲使用者資料、禁止危害性用途、衍生研究需揭露修改內容等規範。
+
+🔹 [NON_MODEL_NOTICE.md](NON_MODEL_NOTICE.md)
+
+Non-Model 使用聲明
+
+聲明本專案並 非 語言模型，不含模型權重、生成模組或可獨立運作之 LLM。
+僅提供向量處理、語意工具與研究框架。
+
+---
+
 OwlResearch 是一套探索 語言 → 向量 → 場（Field） → 代語言（Meta-Language）
 之間轉換與動態的完整研究架構。
 
@@ -48,7 +85,7 @@ Field-stabilized semantic update
 
 超小型語言模型（無 Token 依賴）
 
-🟨 PipOwl – Embedding Shell
+🟨 [PipOwl – Embedding Shell](https://github.com/galaxy4552/Pipowl/)
 
 語意向量來源
 
@@ -71,20 +108,16 @@ TimeOwl / StateOwl（上下文演化）
 OwlResearch 嘗試回答：
 
 語言真正的基本單位是什麼？
-
-不是 token，也不是詞，而是場中的「動態」。
+- 不是 token，也不是詞，而是場中的「動態」。
 
 語意如何被壓縮、展開、遞迴？
-
-使用向量幾何與場方程（Field Equation）描述。
+- 使用向量幾何與場方程（Field Equation）描述。
 
 是否能以最小模型實現語言理解？
-
-VecOwl 正是在探索這件事。
+- VecOwl 正是在探索這件事。
 
 如何打造真正個人化的語言系統？
-
-Persona vector（LPV / Dark / Wisdom）提供新可能。
+- Persona vector（LPV / Dark / Wisdom）提供新可能。
 
 🛠️ 4. 與工程系統的關聯
 
