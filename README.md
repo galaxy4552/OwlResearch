@@ -1,9 +1,9 @@
 🦉 OwlResearch – 語意場研究計畫
 
 OwlGalaxy 語意計算架構的研究筆記、白皮書與原理文件
-# 此處語意指的是 geometry of meaning，非 interpretation。
-# influences choice, not meaning
-# pre-semantic governor
+ -此處語意指的是 geometry of meaning，非 interpretation。
+ -influences choice, not meaning
+ -pre-semantic governor
 ---
 
 🟦 📄 License & Policy Documents
@@ -48,13 +48,15 @@ OwlResearch 是一套探索 語言 → 向量 → 場（Field） → 代語言�
 
 一套能解釋語言如何在高維空間中演化的 語意場模型（Semantic Field）
 
-能夠以極小解碼器運作的 VecOwl 最小語言模型（Minimal Decoder）
+能夠以極小解碼器運作的 fieldOwl 最小語言模型（Minimal Decoder）
 
-多層次 Persona 語意混合（LPV / Dark / Wisdom）
+多層次 Persona 語意混合（LPV / Dark / Biwing）
 
 用於真實人類輸入的 語意加字與語境更新機制
 
 這些研究將構成 OwlGalaxy 的理論與工程基礎。
+
+---
 
 📘 1. 球面語言動力學（Spherical Linguistic Dynamics）
 
@@ -71,29 +73,23 @@ Token → Vector → Field → Meta-Language 的語意流程
 
 Field-based semantic recursion（語意遞迴公式）
 
-作為整個 OwlGalaxy 的核心概念樹（concept backbone）
+作為整個 OwlGalaxy 的核心概念樹
 
 [![語言動力學示意圖（Language Pipeline Diagram）](./images/languagepipeline1.jpg)](./images/languagepipeline1.jpg)
+
+---
 
 📂 2. 預計釋出的白皮書（即將上線）
 
 這些將成為完整語意計算框架的下位模組：
 
-🟦 VecOwl – Minimal Decoder
+🟦 fieldOwl
 
-核心公式：S(x) = D(E(x))
+核心公式：S(x) = Decode(Embed(x))
 
 Field-stabilized semantic update
 
 超小型語言模型（無 Token 依賴）
-
-🟨 [PipOwl – Embedding Shell](https://github.com/galaxy4552/Pipowl/)
-
-語意向量來源
-
-Persona 向量（LPV / Dark / Wisdom）
-
-多語橋接（Biwing Layer）
 
 🟧 Field-Based Semantic Pipeline
 
@@ -101,9 +97,15 @@ KingdomOwl（語意決策層）
 
 WisdomOwl（語境記憶層）
 
-CambridgeOwl（語法提示）
+StateOwl（上下文演化）
 
-TimeOwl / StateOwl（上下文演化）
+🟨 [PipOwl – Embedding Shell](https://github.com/galaxy4552/Pipowl/)
+
+語意向量來源
+
+Persona 向量（LPV / Dark / Biwing）
+
+---
 
 🧭 3. 研究目的與願景
 
@@ -116,10 +118,12 @@ OwlResearch 嘗試回答：
 - 使用向量幾何與場方程（Field Equation）描述。
 
 是否能以最小模型實現語言理解？
-- VecOwl 正是在探索這件事。
+- FieldOwl 正是在探索這件事。
 
 如何打造真正個人化的語言系統？
-- Persona vector（LPV / Dark / Wisdom）提供新可能。
+- Persona vector（LPV / Dark / Biwing）提供新可能。
+
+---
 
 🛠️ 4. 與工程系統的關聯
 
@@ -127,9 +131,11 @@ OwlResearch 嘗試回答：
 但隨著語意場架構成熟：
 
 NCO 不再是一個獨立模組，而是 OwlGalaxy 的 UI 入口。
-真正的語意邏輯完全交由 Field 層與 VecOwl 負責。
+真正的語意邏輯完全交由 Field 負責。
 
 [![測試圖](./images/IME_test.jpg)](./images/IME_test.jpg)
+
+---
 
 🦉 5. 觀點
 
@@ -153,7 +159,10 @@ OwlSystem (概念): Token → Vector → Semantic Process → Output
 
 - 語意狀態演化模型
 
-- 最近也看到不少人開始探索 non-model 的語意架構，所以這個方向看起來正在成為一個獨立研究分支。不依賴 Transformer，不依賴大模型，而是基於語意空間的連續性。
+- 最近也看到不少人開始探索 non-model 的語意架構，
+所以這個方向看起來正在成為一個獨立研究分支。
+不依賴 Transformer，不依賴大模型，
+而是基於語意空間的連續性。
 
 - 這個方向並非取代 LLM，而是補足 LLM 在
 「低延遲、個人化、輕量語意處理」中的缺口。
