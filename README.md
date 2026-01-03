@@ -1,9 +1,11 @@
 🦉 OwlResearch – 語意場研究計畫
 
 OwlGalaxy 語意計算架構的研究筆記、白皮書與原理文件
- -此處語意指的是 geometry of meaning，非 interpretation。
- -influences choice, not meaning
- -pre-semantic governor
+
+- 此處語意指的是 geometry of meaning，非 interpretation。
+- influences choice, not meaning
+- pre-semantic governor
+
 ---
 
 🟦 📄 License & Policy Documents
@@ -41,7 +43,7 @@ Non-Model 使用聲明
 
 ---
 
-OwlResearch 是一套探索 語言 → 向量 → 場（Field） → 代語言（Meta-Language）
+OwlResearch 是一套探索 語言 → 向量 → 場（Field）→ 代語言（Meta-Language）
 之間轉換與動態的完整研究架構。
 
 本計畫旨在建立：
