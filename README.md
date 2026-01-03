@@ -134,8 +134,10 @@ NCO 不再是一個獨立模組，而是 OwlGalaxy 的 UI 入口。
 真正的語意邏輯完全交由 Field 負責。
 
 [![測試圖](./images/IME_test.jpg)](./images/IME_test.jpg)
-[![測試圖2](./images/inspector5-1.jpg)](./images/inspector5-1.jpg)
-[![測試圖3](./images/inspector5-2.jpg)](./images/inspector5-2.jpg)
+
+[![測試圖2](./images/inspector5_1.jpg)](./images/inspector5_1.jpg)
+
+[![測試圖3](./images/inspector5_2.jpg)](./images/inspector5_2.jpg)
 
 ---
 
