@@ -95,11 +95,11 @@ Field-stabilized semantic update
 
 🟧 Field-Based Semantic Pipeline
 
-KingdomOwl（語意決策層）
+KingdomOwl（語意層）
 
-WisdomOwl（語境記憶層）
+WisdomOwl（決策層）
 
-StateOwl（上下文演化）
+FlowOwl & StateOwl（上下文 狀態機）
 
 🟨 [PipOwl – Embedding Shell](https://github.com/galaxy4552/Pipowl/)
 
@@ -137,9 +137,9 @@ NCO 不再是一個獨立模組，而是 OwlGalaxy 的 UI 入口。
 
 [![測試圖](./images/IME_test.jpg)](./images/IME_test.jpg)
 
-[![測試圖](./images/inspector5_1.jpg)](./images/inspector5_1.jpg)
+[![測試圖](./images/Inspector5_1.jpg)](./images/Inspector5_1.jpg)
 
-[![測試圖](./images/inspector5_2.jpg)](./images/inspector5_2.jpg)
+[![測試圖](./images/Inspector5_2.jpg)](./images/Inspector5_2.jpg)
 
 ---
 
@@ -147,7 +147,7 @@ NCO 不再是一個獨立模組，而是 OwlGalaxy 的 UI 入口。
 
 傳統 NLP: Token → Embedding → Transformer → Output
 
-OwlSystem (概念): Token → Vector → Semantic Process → Output
+OwlSystem (概念): Token → Vector → Pipowl → TeaOwl生成物 → Output
 
 核心觀點：  
 我們將語言視為「連續語意空間中的狀態」，  
