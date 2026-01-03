@@ -8,6 +8,7 @@ teaowl 是一個蒸餾為「語言場（language field）」的模組
 
 系統位置（概念架構）
 
+```
 Input
   ↓
 pipowl
@@ -17,6 +18,7 @@ teaowl的生成物 (language field constraints)
 User-defined Decode
   ↓
 Output
+```
 
 ---
 
