@@ -8,41 +8,6 @@ OwlGalaxy 語意計算架構的研究筆記、白皮書與原理文件
 
 ---
 
-🟦 📄 License & Policy Documents
-
-本專案包含四份與授權、資料與倫理規範相關的文件。
-為了維持研究透明度與技術安全性，建議讀者在使用 OwlResearch 前先閱讀以下內容：
-
-🔹 [LICENSE](License)
-
-Apache License 2.0
-
-適用於本專案所有原始程式碼。
-提供自由使用、修改、散布的權利，並要求保留版權與授權條款。
-
-🔹 [DATA_LICENSE.md](DATA_LICENSE.md)
-
-CC BY 4.0 International License
-
-適用於倉庫內所有資料集（datasets）。
-允許分享與改作，但需適當標註來源。
-
-🔹 [ETHICS.md](ETHICS.md)
-
-OwlResearch Ethics Addendum
-
-OwlResearch 專案特有的倫理指引：
-包含隱私保護、禁止反向推敲使用者資料、禁止危害性用途、衍生研究需揭露修改內容等規範。
-
-🔹 [NON_MODEL_NOTICE.md](NON_MODEL_NOTICE.md)
-
-Non-Model 使用聲明
-
-聲明本專案並 非 語言模型，不含模型權重、生成模組或可獨立運作之 LLM。
-僅提供向量處理、語意工具與研究框架。
-
----
-
 OwlResearch 是一套探索 語言 → 向量 → 場（Field）→ 代語言（Meta-Language）
 之間轉換與動態的完整研究架構。
 
@@ -174,6 +139,43 @@ OwlSystem (概念): Token → Vector → Pipowl → TeaOwl生成物 → Output
 - 這個方向並非取代 LLM，而是補足 LLM 在
 「低延遲、個人化、輕量語意處理」中的缺口。
 更多細節請見白皮書。
+
+---
+
+🟦 📄 License & Policy Documents
+
+本專案包含四份與授權、資料與倫理規範相關的文件。
+為了維持研究透明度與技術安全性，建議讀者在使用 OwlResearch 前先閱讀以下內容：
+
+🔹 [LICENSE](License)
+
+Apache License 2.0
+
+適用於本專案所有原始程式碼。
+提供自由使用、修改、散布的權利，並要求保留版權與授權條款。
+
+🔹 [DATA_LICENSE.md](DATA_LICENSE.md)
+
+CC BY 4.0 International License
+
+適用於倉庫內所有資料集（datasets）。
+允許分享與改作，但需適當標註來源。
+
+🔹 [ETHICS.md](ETHICS.md)
+
+OwlResearch Ethics Addendum
+
+OwlResearch 專案特有的倫理指引：
+包含隱私保護、禁止反向推敲使用者資料、禁止危害性用途、衍生研究需揭露修改內容等規範。
+
+🔹 [NON_MODEL_NOTICE.md](NON_MODEL_NOTICE.md)
+
+Non-Model 使用聲明
+
+聲明本專案並 非 語言模型，不含模型權重、生成模組或可獨立運作之 LLM。
+僅提供向量處理、語意工具與研究框架。
+
+---
 
 📅 6. 狀態
 
