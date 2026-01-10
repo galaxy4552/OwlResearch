@@ -66,6 +66,7 @@ OwlResearch 是一套探索 語言 → 向量 → 場（Field）→ 代語言（
 
 📁 連結：
 👉 [Spherical_Linguistic_Dynamics](./Spherical_Linguistic_Dynamics/main.md)
+👉 [Chinese_TL;DR](./Spherical_Linguistic_Dynamics/ChineseTLDR.md)
 
 內容涵蓋：
 
