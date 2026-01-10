@@ -16,11 +16,13 @@
 [![球面理論示意圖](../images/owlresearch2.jpg)](../images/owlresearch2.jpg)
 
 ---
+
 （以下黑點皆表示：semantic state 無法穩定投影到語言表示空間）
+
 ---
 
-幻覺:
-球外的一點
+# 幻覺:
+## 球外的一點
 
 [![幻覺示意圖](../images/owlresearch3.jpg)](../images/owlresearch3.jpg)
 
@@ -33,8 +35,8 @@
 
 ---
 
-不生成:
-球面上的一點
+# 不生成:
+## 球面上的一點
 
 [![不生成示意圖](../images/owlresearch4.jpg)](../images/owlresearch4.jpg)
 
@@ -48,8 +50,8 @@
 
 ---
 
-語意能量不足:
-點被困死在球內
+# 語意能量不足:
+## 點被困死在球內
 
 [![語意能量不足示意圖](../images/owlresearch5.jpg)](../images/owlresearch5.jpg)
 
