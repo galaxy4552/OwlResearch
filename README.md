@@ -31,7 +31,9 @@ OwlResearch 是一套探索 語言 → 向量 → 場（Field）→ 代語言（
 
 📁 連結：
 👉 [Spherical_Linguistic_Dynamics](./Spherical_Linguistic_Dynamics/main.md)
+New update:
 👉 [Chinese_TL;DR](./Spherical_Linguistic_Dynamics/ChineseTLDR.md)
+
 
 內容涵蓋：
 
@@ -106,6 +108,10 @@ NCO 不再是一個獨立模組，而是 OwlGalaxy 的 UI 入口。
 [![測試圖](./images/Inspector5_1.jpg)](./images/Inspector5_1.jpg)
 
 [![測試圖](./images/Inspector5_2.jpg)](./images/Inspector5_2.jpg)
+
+New update:
+
+👉 [inspector_walkthrough](./inspector/inspector_walkthrough.md)
 
 ---
 
