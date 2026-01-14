@@ -112,6 +112,9 @@ NCO 不再是一個獨立模組，而是 OwlGalaxy 的 UI 入口。
 New update:
 
 👉 [inspector_walkthrough](./inspector/inspector_walkthrough.md)
+2026/1/14
+👉 [🎬 模型之前就先做簡單運算](https://youtu.be/cpziL13KC1g)
+👉 [🎬 跑自建模型的實測影片](https://youtu.be/jHNUfxCImBk)
 
 ---
 
