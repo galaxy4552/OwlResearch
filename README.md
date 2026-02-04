@@ -1,6 +1,11 @@
-🦉 OwlResearch – 語意場研究計畫
+# 🦉 OwlResearch – 語意場研究計畫
 
 OwlGalaxy 語意計算架構的研究筆記、白皮書與原理文件
+
+### 26/02/04
+此頁內容僅作為時間戳記
+後續更新已移至Hackmd
+[開發場論語言模型之路](https://hackmd.io/@galaxy4552/HkypP0yDbx)
 
 - 此處語意指的是 geometry of meaning，非 interpretation。
 - influences choice, not meaning
@@ -25,7 +30,7 @@ OwlResearch 是一套探索 語言 → 向量 → 場（Field）→ 代語言（
 
 ---
 
-📘 1. 球面語言動力學（Spherical Linguistic Dynamics）
+## 📘 1. 球面語言動力學（Spherical Linguistic Dynamics）
 
 → OwlResearch 系列的核心主幹白皮書
 
@@ -49,7 +54,7 @@ Field-based semantic recursion（語意遞迴公式）
 
 ---
 
-📂 2. 預計釋出的白皮書（即將上線）
+## 📂 2. 預計釋出的白皮書（即將上線）
 
 這些將成為完整語意計算框架的下位模組：
 
@@ -77,7 +82,7 @@ FlowOwl & StateOwl（上下文 狀態機）
 
 ---
 
-🧭 3. 研究目的與願景
+## 🧭 3. 研究目的與願景
 
 OwlResearch 嘗試回答：
 
@@ -95,7 +100,7 @@ OwlResearch 嘗試回答：
 
 ---
 
-🛠️ 4. 與工程系統的關聯
+## 🛠️ 4. 與工程系統的關聯
 
 雖然 NCO（NewCoolOwl）最初作為 IME 被提出，
 但隨著語意場架構成熟：
@@ -120,7 +125,7 @@ New update:
 
 ---
 
-🦉 5. 觀點
+## 🦉 5. 觀點
 
 傳統 NLP: Token → Embedding → Transformer → Output
 
@@ -153,7 +158,7 @@ OwlSystem (概念): Token → Vector → Pipowl → TeaOwl生成物 → Output
 
 ---
 
-🟦 📄 License & Policy Documents
+### 🟦 📄 License & Policy Documents
 
 本專案包含四份與授權、資料與倫理規範相關的文件。
 為了維持研究透明度與技術安全性，建議讀者在使用 OwlResearch 前先閱讀以下內容：
@@ -188,7 +193,7 @@ Non-Model 使用聲明
 
 ---
 
-📅 6. 狀態
+## 📅 6. 狀態
 
 OwlResearch Series
 Maintained by 王楷霖
